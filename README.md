@@ -48,10 +48,7 @@ Male subscribers are more than women subscribers and unknown subscribers, and ri
 
 ## Summary of the results and two additional visualizations
 
-### Customer vs Subscriber
-
-
-The visualization indicates that there are more subscribers tha users.
+The visualization indicates that there are more subscribers than customers(non_subscribers) which also means that they use the service long term.
 
 ![image](https://user-images.githubusercontent.com/92646311/179446337-9b073dbf-a03c-4561-9535-5d9f793e4e67.png)
 
@@ -63,5 +60,7 @@ Both visualizations show top starting and ending locations, both locations are  
 
 ![image](https://user-images.githubusercontent.com/92646311/179445829-d23c75a3-0771-47a8-8727-f5099cac032f.png)
 
+We did and performed multiple visualizations to determine and identified the citibike peak demand hours, days, locations, users by gender, and type of customers. 
+We can perform better analysis by using data from the last 3 years to the current year.Further we can perform analysis to see if there are locations that would be more apealing in the future.
 
 
