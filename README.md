@@ -46,20 +46,6 @@ Male riders are more than women and unknown. Moreover Thursday is the most busy 
 Male subscribers are more than women subscribers and unknown subscribers, and ride the citibike most.
 <img width="959" alt="Screen Shot 2022-07-17 at 11 59 54 PM" src="https://user-images.githubusercontent.com/92646311/179443418-2890e1be-650f-4bd7-8179-2d1fdfe21fee.png">
 
-
-### Customer vs Subscriber
-
-![image](https://user-images.githubusercontent.com/92646311/179446337-9b073dbf-a03c-4561-9535-5d9f793e4e67.png)
-
-### Riders most Starting and Ending locations
-
-Both visualizations show top starting and ending locations, both locations are  in the populous areas.
-
-![image](https://user-images.githubusercontent.com/92646311/179445764-b8549dfa-2659-4772-adb6-b03870fc7d5e.png)
-
-![image](https://user-images.githubusercontent.com/92646311/179445829-d23c75a3-0771-47a8-8727-f5099cac032f.png)
-
-
 ## Summary of the results and two additional visualizations
 
 ### Customer vs Subscriber
