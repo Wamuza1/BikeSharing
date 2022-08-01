@@ -61,6 +61,7 @@ Both visualizations show top starting and ending locations, both locations are  
 ![image](https://user-images.githubusercontent.com/92646311/179445829-d23c75a3-0771-47a8-8727-f5099cac032f.png)
 
 We did and performed multiple visualizations to determine and identified the citibike peak demand hours, days, locations, users by gender, and type of customers. 
-We can perform better analysis by using data from the last 3 years to the current year.Further we can perform analysis to see if there are locations that would be more apealing in the future.
+We can perform better analysis by using data from the last 3 years to the current year, also comparing data for different months to determine trends across the year.
+Further we can perform analysis to see if there are locations that would be more apealing in the future. There would be other factors such as vacations , weather, age and distance from work and bike renting location.
 
 
