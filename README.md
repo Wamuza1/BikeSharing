@@ -6,9 +6,17 @@ Citibike analysis by using Tableau visualization
 There is still some more work to be done to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
 For this analysis, We used Pandas to change the "tripduration" column from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After we converted the "tripduration" column to a datetime dataytpe, we exported the DataFrame as a CSV file to use for the trip analysis and created the visualization by using Tableau.
 
+# Link to Tableau Story
+
+[link to dashboard](https://public.tableau.com/app/profile/saba.amin/viz/Book1_16583428739990/Citibike_Story)
 
 ## Results:
-We created a set of visualizations shuch as:  
+
+ "tripduration" column to a datetime dataytpe
+
+![image](https://user-images.githubusercontent.com/92646311/182053949-61996a11-afc8-48e5-8022-207ef051b544.png)
+
+### We created a set of visualizations shuch as:  
 
 - **Below the both graphs shows the length of time that bikes are checked out for all riders and genders**
 
@@ -51,4 +59,4 @@ Both visualizations show top starting and ending locations, both locations are  
 
 ## Summary
 
-[link to dashboard](https://public.tableau.com/app/profile/saba.amin/viz/Book1_16583428739990/Citibike_Story)
+
