@@ -30,19 +30,20 @@ This visualization indicates the length of time of every bike ride during the mo
  - **The number of bike trips for all riders and genders for each hour per weekday**
  
  
-- On weekdays citibike riders traffic peak commuting times are 5PM to 7PM, 
-- Thursday is the most busy day, and morning time starts from 6AM to 9AM and the evening time starts from 4PM to &pm. 
-- aturday and sunday are also busy.
+1. On weekdays citibike riders traffic peak commuting times are 5PM to 7PM, 
+2.  Thursday is the most busy day, and morning time starts from 6AM to 9AM and the evening time starts from 4PM to &pm. 
+3.  Saturday and sunday are also busy.
  
  <img width="960" alt="Screen Shot 2022-07-17 at 11 58 42 PM" src="https://user-images.githubusercontent.com/92646311/179443328-a977688e-369c-43e3-9afc-210da5f10cb0.png">
 
 
 - **The number of bike trips for each type of user and gender weekday per hour.**
 
-Male subscribers are more than women and unknown. Moreover Thursday is the most busy day of the week.
+Male riders are more than women and unknown. Moreover Thursday is the most busy day of the week.
 
 <img width="962" alt="image" src="https://user-images.githubusercontent.com/92646311/179443364-1d1a982b-21b4-4617-8a9d-c739907d7b61.png">
 
+Male subscribers are more than women subscribers and unknown subscribers, and ride the citibike most.
 <img width="959" alt="Screen Shot 2022-07-17 at 11 59 54 PM" src="https://user-images.githubusercontent.com/92646311/179443418-2890e1be-650f-4bd7-8179-2d1fdfe21fee.png">
 
 
@@ -59,6 +60,19 @@ Both visualizations show top starting and ending locations, both locations are  
 ![image](https://user-images.githubusercontent.com/92646311/179445829-d23c75a3-0771-47a8-8727-f5099cac032f.png)
 
 
-## Summary
+## Summary of the results and two additional visualizations
+
+### Customer vs Subscriber
+
+![image](https://user-images.githubusercontent.com/92646311/179446337-9b073dbf-a03c-4561-9535-5d9f793e4e67.png)
+
+### Riders most Starting and Ending locations
+
+Both visualizations show top starting and ending locations, both locations are  in the populous areas.
+
+![image](https://user-images.githubusercontent.com/92646311/179445764-b8549dfa-2659-4772-adb6-b03870fc7d5e.png)
+
+![image](https://user-images.githubusercontent.com/92646311/179445829-d23c75a3-0771-47a8-8727-f5099cac032f.png)
+
 
 
