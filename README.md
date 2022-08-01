@@ -27,7 +27,7 @@ This visualization indicates the length of time of every bike ride during the mo
  The breakdown of citibike riders by gender, where mostly  male riders used the ride. Secondly, female and then unknown.
 <img width="950" alt="Screen Shot 2022-07-17 at 11 53 39 PM" src="https://user-images.githubusercontent.com/92646311/179442941-ef7d87f1-79ee-45ca-a212-4e2b77d430a7.png">
 
- - **The number of bike trips for all riders and genders for each hour per weekday**
+ - **The number of bike trips for all riders weekday per hour**
  
  
 1. On weekdays citibike riders traffic peak commuting times are 5PM to 7PM, 
@@ -49,6 +49,9 @@ Male subscribers are more than women subscribers and unknown subscribers, and ri
 ## Summary of the results and two additional visualizations
 
 ### Customer vs Subscriber
+
+
+The visualization indicates that there are more subscribers tha users.
 
 ![image](https://user-images.githubusercontent.com/92646311/179446337-9b073dbf-a03c-4561-9535-5d9f793e4e67.png)
 
